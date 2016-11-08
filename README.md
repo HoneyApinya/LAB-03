@@ -9,6 +9,10 @@
 3.	คัดลอกไฟล์ .cpp จากการทดลองที่ 2
 4.	แก้ไข code ในส่วนของการ switch (message) ในไฟล์ .cpp ให้เป็นไปดังต่อไปนี้
 5. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
+![เมื่อรันดูจะได้ผลดังนั้]
+
+(https://github.com/HoneyApinya/LAB-03/blob/master/3.1.png?raw=true)
+
  
 ```c
     switch (message) {
