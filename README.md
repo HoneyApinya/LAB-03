@@ -163,3 +163,5 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam,
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+ไม่มีปัญาใดๆ
